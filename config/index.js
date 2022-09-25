@@ -1,5 +1,5 @@
 /* eslint-disable */
-const USER_CONFIG = {
+const USER_CONFIG = {1
   /**
    * 公众号配置
    */
