@@ -55,7 +55,7 @@ const USER_CONFIG = {1
 
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: '',
+  LITERARY_PREFERENCE: '永远爱你',
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
@@ -63,11 +63,11 @@ const USER_CONFIG = {1
   USERS: [
     {
       // 想要发送的人的名字
-      name: '老婆0',
+      name: '小蓝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'ouej46awXE_-skwELZBxycmrklIY',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: '今天也很想你',
       // 所在省份
       province: '广东',
       // 所在城市
